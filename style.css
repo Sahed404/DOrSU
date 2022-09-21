@@ -1,0 +1,7 @@
+.dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  nav .m-auto ul li a {
+    font-size: 10px;
+  }
